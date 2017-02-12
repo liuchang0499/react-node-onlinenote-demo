@@ -1,1 +1,2 @@
-# react-node-onlinenote-demo
+# react-note
+react+redux+nodejs+mongodb+webpack
